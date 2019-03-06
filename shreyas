@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+
+
+
+<html>
+
+    <head>
+
+        <link rel="stylesheet" href="style.css">
+
+        
+
+        <title>Sample</title>
+
+        <body>
+
+            <div>
+
+                    Hello World!
+
+            </div>
+
+
+
+        </body>
+
+    </head>
+
+</html>
